@@ -1,0 +1,12 @@
+https://templates.envytheme.com/zust/default/assets/fonts/remixicon.woff2?t=1708865856766
+
+https://templates.envytheme.com/zust/default/assets/fonts/remixicon.eot?t=1708865856766#iefix
+https://templates.envytheme.com/zust/default/assets/fonts/remixicon.woff?t=1708865856766
+https://templates.envytheme.com/zust/default/assets/fonts/remixicon.ttf?t=1708865856766
+https://templates.envytheme.com/zust/default/assets/fonts/remixicon.svg?t=1708865856766
+
+https://templates.envytheme.com/zust/default/assets/fonts/flaticon.ttf?6085b488da160cd4b3fe0f59dc016157
+https://templates.envytheme.com/zust/default/assets/fonts/flaticon.woff?6085b488da160cd4b3fe0f59dc016157
+https://templates.envytheme.com/zust/default/assets/fonts/flaticon.woff2?6085b488da160cd4b3fe0f59dc016157
+https://templates.envytheme.com/zust/default/assets/fonts/flaticon.eot?6085b488da160cd4b3fe0f59dc016157#iefix
+https://templates.envytheme.com/zust/default/assets/fonts/flaticon.svg?6085b488da160cd4b3fe0f59dc016157#flaticon
