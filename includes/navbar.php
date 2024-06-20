@@ -12,7 +12,7 @@
     <div class="main-navbar">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a href="index.html" class="navbar-brand d-flex align-items-center">
-                <img src="assets/images/logo.png" alt="image">
+                <img src="../assets/images/logo.png" alt="image">
             </a>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -51,7 +51,7 @@
                                 <div class="friend-requests-body" data-simplebar>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -68,7 +68,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -85,7 +85,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -102,7 +102,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -119,7 +119,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-6.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-6.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -136,7 +136,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-7.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-7.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -153,7 +153,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-8.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-8.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="item d-flex align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-9.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-9.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
 
                                         <div class="content d-flex justify-content-between align-items-center">
@@ -215,7 +215,7 @@
                                 <div class="messages-body" data-simplebar>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">James Vanwin</a></h4>
@@ -224,7 +224,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Harry Lopez</a></h4>
@@ -233,7 +233,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Matthew Smith</a></h4>
@@ -242,7 +242,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-14.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-14.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Russe Smith</a></h4>
@@ -251,7 +251,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-1.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-1.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">James Vanwin</a></h4>
@@ -260,7 +260,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Harry Lopez</a></h4>
@@ -269,7 +269,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Matthew Smith</a></h4>
@@ -278,7 +278,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Russe Smith</a></h4>
@@ -309,7 +309,7 @@
                                 <div class="notifications-body" data-simplebar>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">James Vanwin</a></h4>
@@ -319,7 +319,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Harry Lopez</a></h4>
@@ -329,7 +329,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Matthew Smith</a></h4>
@@ -339,7 +339,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">James Vanwin</a></h4>
@@ -349,7 +349,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-6.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-6.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Harry Lopez</a></h4>
@@ -359,7 +359,7 @@
                                     </div>
                                     <div class="item d-flex justify-content-between align-items-center">
                                         <div class="figure">
-                                            <a href="#"><img src="assets/images/user/user-7.jpg" class="rounded-circle" alt="image"></a>
+                                            <a href="#"><img src="../assets/images/user/user-7.jpg" class="rounded-circle" alt="image"></a>
                                         </div>
                                         <div class="text">
                                             <h4><a href="#">Matthew Smith</a></h4>
@@ -388,7 +388,7 @@
                         <div class="dropdown profile-nav-item">
                             <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 <div class="menu-profile">
-                                    <img src="assets/images/user/user-1.jpg" class="rounded-circle" alt="image">
+                                    <img src="../assets/images/user/user-1.jpg" class="rounded-circle" alt="image">
                                     <span class="name">Matthew</span>
                                     <span class="status-online"></span>
                                 </div>
@@ -448,7 +448,7 @@
                                     <div class="friend-requests-body">
                                         <div class="item d-flex align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
 
                                             <div class="content d-flex justify-content-between align-items-center">
@@ -465,7 +465,7 @@
                                         </div>
                                         <div class="item d-flex align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
 
                                             <div class="content d-flex justify-content-between align-items-center">
@@ -482,7 +482,7 @@
                                         </div>
                                         <div class="item d-flex align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
 
                                             <div class="content d-flex justify-content-between align-items-center">
@@ -499,7 +499,7 @@
                                         </div>
                                         <div class="item d-flex align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
 
                                             <div class="content d-flex justify-content-between align-items-center">
@@ -544,7 +544,7 @@
                                     <div class="messages-body">
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">James Vanwin</a></h4>
@@ -553,7 +553,7 @@
                                         </div>
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">Harry Lopez</a></h4>
@@ -562,7 +562,7 @@
                                         </div>
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">Matthew Smith</a></h4>
@@ -571,7 +571,7 @@
                                         </div>
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-14.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-14.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">Russe Smith</a></h4>
@@ -602,7 +602,7 @@
                                     <div class="notifications-body">
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">James Vanwin</a></h4>
@@ -612,7 +612,7 @@
                                         </div>
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">Harry Lopez</a></h4>
@@ -622,7 +622,7 @@
                                         </div>
                                         <div class="item d-flex justify-content-between align-items-center">
                                             <div class="figure">
-                                                <a href="#"><img src="assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                                <a href="#"><img src="../assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
                                             </div>
                                             <div class="text">
                                                 <h4><a href="#">Matthew Smith</a></h4>
@@ -645,15 +645,15 @@
                                 </button>
                                 <div class="dropdown-menu language-dropdown-menu">
                                     <a class="dropdown-item" href="#">
-                                        <img src="assets/images/uk.png" alt="flag">
+                                        <img src="../assets/images/uk.png" alt="flag">
                                         Eng
                                     </a>
                                     <a class="dropdown-item" href="#">
-                                        <img src="assets/images/china.png" alt="flag">
+                                        <img src="../assets/images/china.png" alt="flag">
                                         简体中文
                                     </a>
                                     <a class="dropdown-item" href="#">
-                                        <img src="assets/images/uae.png" alt="flag">
+                                        <img src="../assets/images/uae.png" alt="flag">
                                         العربيّة
                                     </a>
                                 </div>
@@ -663,7 +663,7 @@
                             <div class="dropdown profile-nav-item">
                                 <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <div class="menu-profile">
-                                        <img src="assets/images/user/user-1.jpg" class="rounded-circle" alt="image">
+                                        <img src="../assets/images/user/user-1.jpg" class="rounded-circle" alt="image">
                                         <span class="name">Matthew</span>
                                         <span class="status-online"></span>
                                     </div>
